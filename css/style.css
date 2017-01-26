@@ -1,0 +1,16 @@
+body {
+  font-size: 14px;
+  line-height: 24 px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-family: PTsans;
+}
+
+b {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 42px;
+}
